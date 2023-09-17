@@ -1,0 +1,71 @@
+##000_
+selector
+boarder
+margin
+font-size
+background
+rem
+flex
+grid
+
+
+##100_ selector
+p {
+  color: red;
+  text-align: center;
+}
+
+#id {
+  text-align: center;
+  color: red;
+}
+
+.dogclass {
+  text-align: center;
+  color: red;
+}
+
+h1.dogclass {
+  text-align: center;
+  color: red;
+  font-size: 300%;
+}
+
+##200_ howTo
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+
+margin-left: 20px;
+Cyan
+Magenta
+Yellow
+color: maroon;
+color: black;
+color: white;
+color: blue;
+color: darkcyan;
+color: darkblue;
+color: cornsilk;
+color: deeppink;
+color: hotpink;
+color: lawngreen;
+color: lightblue;
+color: plum;
+color: silver;
+color: yellow;
+color: yellowgreen;
+color: wheat;
+background-color: linen;
+
+background-color:#ff6347;
+background-color:rgb(255, 99, 71);
+background-color:rgba(255, 99, 71, 0.5);
+background-color:hsl(9, 100%, 64%);
+background-color:hsla(9, 100%, 64%, 0.5);
+
+
+
+
+/* This is a single-line comment */
+
