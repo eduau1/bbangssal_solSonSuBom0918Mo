@@ -1,0 +1,49 @@
+"HTML Elements
+
+
+## HTML Elements
+The HTML element is everything from the start tag to the end tag:
+
+<tagname>Content goes here...</tagname>
+Examples of some HTML elements:
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+## Never Skip the End Tag
+Some HTML elements will display correctly, even if you forget the end tag:
+
+Example
+<html>
+<body>
+
+<p>This is a paragraph
+<p>This is a paragraph
+
+</body>
+</html>
+
+
+## Empty HTML Elements
+
+The <br> tag defines a line break, and is an empty element without a closing tag:
+
+Example
+<p>This is a <br> paragraph with a line break.</p>
+
+
+
+## HTML is Not Case Sensitive
+HTML tags are not case sensitive: <P> means the same as <p>.
+
+The HTML standard does not require lowercase tags, but W3C recommends lowercase in HTML, and demands lowercase for stricter document types like XHTML.
+
+
+## HTML Tag Reference
+W3Schools' tag reference contains additional information about these tags and their attributes.
+
+Tag Description
+<html> Defines the root of an HTML document
+<body> Defines the document's body
+<h1> to <h6> Defines HTML headings
+For a complete list of all available HTML tags, visit our HTML Tag Reference."
